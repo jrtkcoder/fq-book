@@ -1,11 +1,11 @@
 # fq-book
 
-|[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://loremwalker.github.io/fq-book)|[![docsify](https://img.shields.io/badge/%F0%9F%93%96docs-docsify-brightgreen.svg?longCache=true&style=flat-square)](https://docsify.js.org/)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-loremwalker-lightgrey.svg?longCache=true&style=flat-square)](https://loremwalker.github.io/)|[![hotmail](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:loremwalker@hotmail.com)|[![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/loremwalker)
+|[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/fq-book)|[![docsify](https://img.shields.io/badge/%F0%9F%93%96docs-docsify-brightgreen.svg?longCache=true&style=flat-square)](https://docsify.js.org/)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/)|[![hotmail](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoodiearon@hotmail.com)|[![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon)
 |:-:|:-:|:-:|:-:|:-:|:-:|
 
 ## intro
 
-首先对早期fork者说声歉意，因为早期不管是[websiteful](https://github.com/loremwalker/WebSiteUseful)还是[fq-book](https://loremwalker.github.io/fq-book)变动都很大。特别是fq-book，也是各种担心且因其他缘由与相关操作不当导致删除重建好几次该书项目，致使该书有多个未完全残缺版本，很是影响阅读体验，这对该书籍传播是尤为不利的；知识是共享的，且该书转载与借鉴了很多相关作者的文章内容，因此允许演绎作品共享但禁止商用，你也可以下载源码进行[本地部署阅读本书](https://github.com/loremwalker/fq-book/blob/master/tutorial/docsify-serve.md)。
+首先对早期fork者说声歉意，因为早期不管是[websiteful](https://github.com/hoodiearon/WebSiteUseful)还是[fq-book](https://hoodiearon.github.io/fq-book)变动都很大。特别是fq-book，也是各种担心且因其他缘由与相关操作不当导致删除重建好几次该书项目，致使该书有多个未完全残缺版本，很是影响阅读体验，这对该书籍传播是尤为不利的；知识是共享的，且该书转载与借鉴了很多相关作者的文章内容，因此允许演绎作品共享但禁止商用，你也可以下载源码进行[本地部署阅读本书](https://github.com/hoodiearon/fq-book/blob/master/tutorial/docsify-serve.md)。
 
 因清空项目与删库的缘故，在了解IPFS不可更改与删除且永久保存的特性之后，用gitbook构建了fq-book与websiteuseful并已上传至IPFS平台，与此同时还生成了相关的短链接：
 
@@ -22,7 +22,7 @@
 此书献给热爱互联网的人们，但你若是党派喉舌的工作成员，不应该把闲暇时间浪费在这样一部毫无价值的书上，再见！
 
 ## ***mind you:*** 
-由于工作和学习第二语言（非计算机）以及制作[LostMandarin](https://github.com/loremwalker/LostMandarin)等方面的原因，有兴趣的话，支持一下，给[LostMandarin](https://github.com/loremwalker/LostMandarin)打赏个star，非常感谢你们；没有额外的时间来一直更新，因此在这里给出额外的tips.
+由于工作和学习第二语言（非计算机）以及制作[LostMandarin](https://github.com/hoodiearon/LostMandarin)等方面的原因，有兴趣的话，支持一下，给[LostMandarin](https://github.com/hoodiearon/LostMandarin)打赏个star，非常感谢你们；没有额外的时间来一直更新，因此在这里给出额外的tips.
 
 tips:
 
