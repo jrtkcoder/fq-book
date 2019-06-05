@@ -21,7 +21,7 @@
 
 此书献给热爱互联网的人们，但你若是党派喉舌的工作成员，不应该把闲暇时间浪费在这样一部毫无价值的书上，再见！
 
-## ***mind you:*** 
+## ***mind you*** 
 由于工作和学习第二语言（非计算机）以及制作[LostMandarin](https://github.com/hoodiearon/LostMandarin)等方面的原因，有兴趣的话，支持一下，给[LostMandarin](https://github.com/hoodiearon/LostMandarin)打赏个star，非常感谢你们；没有额外的时间来一直更新，因此在这里给出额外的tips.
 
 tips:
