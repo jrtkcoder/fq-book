@@ -51,7 +51,6 @@
   * [heroku搭建ss服务器](web/ss-4-heroku.md)
   * [heroku搭建v2ray服务器](web/v2ray-4-heroku.md)
   * [heroku搭建ss分享站点](web/heroku-deploy.md)
-  * [提取站点有效信息](web/4sol.md)
 
 * ipfs专题
 
@@ -87,7 +86,6 @@
   * [关于封锁IP的认为](append/block-ip.md)
   * [对于校园网的解读](append/tcw.md)
   * [论及游戏的看法](append/game.md)
-  * [科学上网工具的整合](append/vpn-proxy.md)
   * [对零网的简要补充说明](append/4zeronet.md)
   * [宿主机使用VM的代理](append/vm.md)
   * [ss、ssr、v2ray链接解析](append/srvurl.md)
