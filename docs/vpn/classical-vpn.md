@@ -1,10 +1,12 @@
 ## tunsafe
 
-!> 2019 新款vpn
+> 使用 [WireGuard](https://zh.wikipedia.org/zh-cn/WireGuard) 协议的高性能且安全的VPN客户端。TunSafe使在Windows和Linux之间设置极其快速且安全的VPN隧道非常简单。 [摘自官网介绍](https://tunsafe.com)
 
 全局模式（翻墙环境）下，进入 [tunsafe](https://tunsafe.com) ，下载并按软件默认选项安装
 
 ![](https://i.postimg.cc/RhBH1YpM/Snipaste-2019-06-06-20-47-22.png)
+ 
+始终信任
 
 ![](https://i.postimg.cc/GpRnCJf4/Snipaste-2019-06-06-20-44-54.png)
 
@@ -24,7 +26,7 @@
 
 ![](https://i.postimg.cc/B6pkTrM3/Snipaste-2019-06-06-21-25-53.png)
 
-连接测试
+连接服务器必须在全局翻墙下互联；测试
 
 ![](https://i.postimg.cc/9X6XrTRB/Snipaste-2019-06-06-21-35-24.png)
 
