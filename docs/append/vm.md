@@ -12,43 +12,43 @@
 
 <!-- ![](https://ipfs.io/ipfs/QmPgX1CEGGAkCGiG6eD5ujWysQ9iBhV2iTqn8hNmZV4upT?2.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-13_005931.png)
+![](https://i.postimg.cc/y6nWLsnS/2018-05-13-005931.png)
 
 在vm中开启v2ray以及配置privoxy相关参数`0.0.0.0:8118`监听任意地址开启的`8118`端口，将所有http流量再转发至本机代理
 
 <!-- ![](https://ipfs.io/ipfs/QmVvZ3tL2jX5NizhrctG7FFFBDYJVDu3pbgB8JGDrrduvj?2.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-12_065612.png)
+![](https://i.postimg.cc/2SnDXxmX/2018-05-12-065612.png)
 
 在vm设置代理本机地址与privoxy代理的监听端口
 
 <!-- ![](https://ipfs.io/ipfs/QmZHt9U6eiYkSrjiU3npR7pCuTi8HVTcEFGy26p5uY9JU7?1.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-13_013525.png)
+![](https://i.postimg.cc/rFrXK9dF/2018-05-13-013525.png)
 
 查看vm局域网地址
 
 <!-- ![](https://ipfs.io/ipfs/QmPPBiFHzDh7crMrLCfvDc9f6B5v13P4zygPhdDhBxg2Wj?0.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-13_014622.png)
+![](https://i.postimg.cc/wBT9ym8f/2018-05-13-014622.png)
 
 VMware设置端口映射
 
 <!-- ![](https://ipfs.io/ipfs/QmZhNJ9bMbuSp9DSPpZHyzmkbBD3DAZNLKqdAYNLhh4814?1.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-13_015340%20%281%29.png)
+![](https://i.postimg.cc/fy44K3ph/2018-05-13-0153pxcx.png)
 
 宿主机中设置代理，填入vm的IP地址与端口
 
 <!-- ![](https://ipfs.io/ipfs/QmTJ8f5AAMX3ak1u78sBXPzYyBUTVoxwSYfsy4ixfcdnKT?2.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-13_020423%20%281%29.png)
+![](https://i.postimg.cc/P57SZg0g/2018-05-13-02xsdf.png)
 
 测试
 
 <!-- ![](https://ipfs.io/ipfs/QmaREa4sCZgTLZ7xqdUh45TuSieGbtyvHp6P9JXGRkqv9Q?2.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-13_021830.png)
+![](https://i.postimg.cc/bJ906WFN/2018-05-13-021830.png)
 
 
 

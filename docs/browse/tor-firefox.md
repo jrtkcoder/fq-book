@@ -6,11 +6,11 @@ azure已由政府背景的企业所代理，但还是可用的，只是不太建
 
 <!-- ![](https://ipfs.io/ipfs/QmWV4nmWRJL1Yi7jrFdt35tE91fYPTbZ6XMxgV1nqtp1ZU?2.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-04-29_022846.png)
+![](https://i.postimg.cc/v89G8GPp/2018-04-29-022846.png)
 
 满足你的好奇心这里给出一个暗网地址:point_right:[hdwiki](https://thehiddenwiki.org/)
 
 <!-- ![](http://ipfs.io/ipfs/QmPa9g6SnpvXdDHcy5bYWB3jdkvtiCYe4oU44bznHaKrRX?3.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-04-29_023357.png)
+![](https://i.postimg.cc/xjGBF8pT/2018-04-29-023357.png)
 

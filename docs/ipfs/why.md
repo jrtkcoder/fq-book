@@ -6,7 +6,7 @@
 
 <!-- ![](https://ipfs.io/ipfs/Qmcvrheq3DvMow9RKwtha145WaCztdYNszvTbKi1UzwHMj?3.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/6cmad.jpg)
+![](https://i.postimg.cc/kXRLyV65/6cmad.jpg)
 
 随着网络服务形态的多元化，去中心化网络模型越来越清晰，也越来越成为可能。本文从**互联网的发展阶段，去中心化的优势，以及对去中心化趋势的预测**等角度，解释了去中心化的重要性。
 
@@ -34,7 +34,7 @@
 
 <!-- ![](https://ipfs.io/ipfs/QmSe3ztTjKYc8trh9KP3daZABHdD6DNzuYBP3faEPsM8mh?0.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/xx001x_.png)
+![](https://i.postimg.cc/Y2vtJCG5/xx001x.png)
 
 当互联网创业公司的影响力到达S曲线的顶端时，他们与媒体、开发者等参与者的关系将从正和变为零和。最容易让公司继续升值的方法是从用户那里收集数据，并与竞争对手争夺潜在用户和利润。历史上曾有不少这样的先例，比如微软与Netscape，谷歌与Yelp，Facebook与Zynga以及Twitter与其第三方客户端。像iOS和Android这样的操作系统表现较好，虽然使用某些Apps仍需要支付30％的税费，但应用商店有权下架部分第三方的Apps，监管方面有绝对的话语权。
 

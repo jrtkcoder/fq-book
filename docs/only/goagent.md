@@ -4,5 +4,5 @@
 
 GoAgent通过使用GAE的服务器作为中转绕过了GFW。它的运作流程是浏览器代理设置将请求的数据重定向到client，对数据加密后并发送到GAE的server，再将数据解密并请求需要的数据回传给client。
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/goagengstuture.jpg)
+![](https://i.postimg.cc/nrqdmmrj/goagengstuture.jpg)
 

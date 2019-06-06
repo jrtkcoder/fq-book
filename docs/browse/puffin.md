@@ -4,21 +4,21 @@
 
 [下载安装puffin](https://www.puffinbrowser.com/)
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_121528.png)
+![](https://i.postimg.cc/13pwJbdn/2018-06-08-121528.png)
 
 在初始化配置时，需要连接VPN
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_123200.png)
+![](https://i.postimg.cc/B6wKj3jy/2018-06-08-123200.png)
 
 查看服务器与本地IP信息
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_123524.png)
+![](https://i.postimg.cc/d0skn3dp/2018-06-08-123524.png)
 
 断开VPN连接，再重启`启用云服务器`即可
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_123758.png)
+![](https://i.postimg.cc/kDPDSgqj/2018-06-08-123758.png)
 
 测试
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_124837.png)
+![](https://i.postimg.cc/3xBFFdW0/2018-06-08-124837.png)
 

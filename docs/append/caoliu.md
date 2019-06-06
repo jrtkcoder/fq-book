@@ -4,13 +4,13 @@
 
 <!-- ![](https://ipfs.io/ipfs/QmPkd76acmkTYoi92Bxtb5G5QezHzAoQN8YSmJSz4f2G1v?3.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-02_002837.png)
+![](https://i.postimg.cc/9QzzqZY8/2018-05-02-002837.png)
 
 IP被列入黑名单后，需通过迎春楼贵宾通道，就是VPN隧道协议访问。
 
 <!-- ![](https://ipfs.io/ipfs/Qmf8D6wegWbtbKviSJU1w5tzhn7sYDqJJ7fDtWze77vGaF?0.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-02_002021.png)
+![](https://i.postimg.cc/XNHbBh1W/2018-05-02-002021.png)
 
 若是浏览器不支持远程DNS解析，访问网站很多时候就会先通过ISP默认的DNS解析服务器进行解析，这样ISP就会知道你访问了哪个网站。对于VPN来说DNS很多时候都是本地解析的，所以常有人反映即使用了VPN一些被DNS污染的网站依旧上不了，把默认DNS解析服务器设置为国外的DNS解析服务器就能解决问题。
 

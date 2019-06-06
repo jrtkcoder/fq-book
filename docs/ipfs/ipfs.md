@@ -12,7 +12,7 @@ IPFS是点对点的超媒体协议，可以让网络更快、更安全、更开�
 
 <!-- ![](https://ipfs.io/ipfs/QmUSeaFSDkhz82dDfE1XbVZ7GEb7WntiZNYKRg3wfMN3kp?1.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/ipfs_io.png)
+![](https://i.postimg.cc/ncyQ97xG/ipfs-io.png)
 
 IPFS—又称“星际文件系统”。简单点说，它是一个点对点的分布式文件系统（和比特币技术一样），通过底层协议，可以让存储在IPFS系统上的文件，在全世界任何一个地方快速获取，且不受防火墙的影响（无需网络代理）。
 
@@ -28,7 +28,7 @@ IPFS—又称“星际文件系统”。简单点说，它是一个点对点的�
 
 <!-- ![](https://ipfs.io/ipfs/QmU6CuRkqHETWhoSi8JV4SUAPKADhLBUkva7kUvnp4DGb3?0.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/ipfs-is-the-distributed-web.png)
+![](https://i.postimg.cc/ht8hJ5pK/ipfs-is-the-distributed-web.png)
 
 > HTTP效率低下，服务器成本昂贵
 
@@ -86,7 +86,7 @@ IPFS的网络上运行着一条区块链，即用来存储互联网文件的哈�
 
 <!-- ![](https://ipfs.io/ipfs/QmZ7t61ZkJESFhJCsifMAkXtof6dZvcczyx7J4WQDnBsAf?0.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/ipfswork.jpg)
+![](https://i.postimg.cc/yYc0Pnvb/ipfswork.jpg)
 
 * 每个文件及其中的所有块都被赋予一个称为加密散列的唯一指纹。
 * IPFS通过网络删除重复具有相同哈希值的文件，通过计算是可以判断哪些文件是冗余重复的。并跟踪每个文件的版本历史记录。

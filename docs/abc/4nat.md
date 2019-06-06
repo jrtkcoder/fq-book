@@ -47,12 +47,14 @@
 
 测得的结果： 
 
-![](https://ipfs.io/ipfs/QmZNLVAGW4wUrd1qpRKhj4JzXei9PhKJ7z9HTnjvp3qYbw?0.jpg)   
+![](https://i.postimg.cc/NFMFQtKC/132059dd4rfiilqz4e4s4p.jpg)
+
+<!-- ![](https://ipfs.io/ipfs/QmZNLVAGW4wUrd1qpRKhj4JzXei9PhKJ7z9HTnjvp3qYbw?0.jpg)    -->
 
 <!-- ![](http://www.right.com.cn/forum/data/attachment/forum/201611/10/132059dd4rfiilqz4e4s4p.jpg)   -->
 最后附上NAT类型测试工具：  
 
-![](https://ipfs.io/ipfs/Qmd9HsHjV3M2Zy4d5BzAuBNcTftMe7JyuJttLRUfzptcS3?4.gif) [NAT类型测试.zip](http://down7.pc6.com/xy3/NatTypeTester.zip) 
+![](https://i.postimg.cc/257n6z5C/zip.gif) [NAT类型测试.zip](http://down7.pc6.com/xy3/NatTypeTester.zip) 
 
 <!-- ![](http://www.right.com.cn/forum/static/image/filetype/zip.gif) [NAT类型测试.zip](http://www.right.com.cn/forum/plugin.php?id=imc_attachad:ad&aid=MTQzODYzfDQxMGQxODFmfDE1MjU4MzkxMjZ8MHwxOTkyOTk%3D)  -->
 PS:  

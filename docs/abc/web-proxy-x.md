@@ -8,6 +8,6 @@
 
 <!-- ![](https://ipfs.io/ipfs/QmdE2aVy9Wc7kHTYtsS7cDSPGM1DnZ1SDfAi2d7YJjiqsK?3.png) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-05-10_192753.png)
+![](https://i.postimg.cc/SxPDbLKc/2018-05-10-192753.png)
 
 

@@ -58,7 +58,7 @@
 
 <!-- ![](https://ipfs.io/ipfs/Qmd2gda91yrCpzfNMu8LKEjPaV8WcBpa7SXSH5iM5Tp9rx?2.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/hidden-web-category.jpg)
+![](https://i.postimg.cc/c6qJwb1d/hidden-web-category.png)
 
 ## 总结
 
@@ -66,33 +66,33 @@
 
 <!-- ![](https://ipfs.io/ipfs/QmaX8fmm2pBGNRQ9WU3xuPDdiB4wtyGd18oPpZ16mu3Bxc?0.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/hiddenwiki.jpg)
+![](https://i.postimg.cc/1373KX3W/hiddenwiki.jpg)
 
 <!-- ![](https://ipfs.io/ipfs/QmRzrEfCk1Rxo6opZbidCyNnStFBhhzmszsbq517NC3E1K?0.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/hiddenwiki-list.jpg)
+![](https://i.postimg.cc/RZ2zFHFz/hiddenwiki-list.jpg)
 
 另一个导航站点：
 
 <!-- ![](https://ipfs.io/ipfs/QmYfBSP66ToswbWvm44JwAYg6jsSrxPS3TrrMzxC2jzX3m?3.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/hdwiki.jpg)
+![](https://i.postimg.cc/90wdcKN2/hdwiki.jpg)
 
 其次是某些站点的截图。有军火、Drug、假护照、信用卡
 
 <!-- ![](https://ipfs.io/ipfs/QmcdFpt8HEUsPTGgw9zASrUbNZZCg9pzFuazRBZcPCJoQW?0.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/gun.jpg)
+![](https://i.postimg.cc/bY0b90c3/gun.jpg)
 
 <!-- ![](https://ipfs.io/ipfs/QmabaP9oANr2MyKBf9igUJn3pj3KtrTSsYbmaGWXpzUuCa?2.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/fake.jpg)
+![](https://i.postimg.cc/TwVyQxSp/fake.jpg)
 
 不过也不是所有站点都是违法犯罪的，也有些画风比较清奇如下图，这说明其实你也完全可以在暗网搭个网站放动画片，不过有没有人看就是另一回事了。
 
 <!-- ![](https://ipfs.io/ipfs/Qmdye3d2Ct3AhAnJUYgLpUTnRtUie2uJkd74gfRvx3PjF7?2.jpg) -->
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/ps4.jpg)
+![](https://i.postimg.cc/q7fMFY2n/ps4.jpg)
 
 ## 参考文档
 

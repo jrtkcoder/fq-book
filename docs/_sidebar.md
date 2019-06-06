@@ -8,13 +8,6 @@
   * [注意事项](look/notice.md)
   * [隐私防护](look/nsfw.md)
 
-* 搜索引擎
-  
-  * [Qwant](search/qwant.md)
-  * [Ecosia](search/ecosia.md)
-  * [DuckDuckGo](search/duckduckgo.md)
-  * [Ask](search/ask.md)
-
 * DNS与Hosts
 
   * [DNSCrypt](dns&hosts/dnscrypt.md)
@@ -32,10 +25,7 @@
 * 代理工具
 
   * [SS/SSR](proxy/ss-ssr.md)
-  * [outline](proxy/outline.md)
-  * [brook](proxy/brook.md)
   * [v2ray](proxy/v2ray.md)
-  * [lantern](proxy/lantern.md)
   * [proxifier](proxy/proxifier.md)
   * [privoxy](proxy/privoxy.md)
   * [SSH-Tunnel](proxy/SSH-Tunnel.md)
@@ -43,14 +33,14 @@
 * VPN软件
 
   * [Betternet](vpn/betternet.md)
-  * [OpenVPN](vpn/openvpn.md)
-  * [GateVPN](vpn/gatevpn.md)
-  * [付费VPN](vpn/pay-vpn.md)
+  * [典型VPN概览](vpn/classical-vpn.md)
+  * [付费VPN参考清单](vpn/pay-vpn.md)
 
-* 仅作了解
+* 大概了解
 
   * [goagent](only/goagent.md)
   * [CoNET](only/qtgate.md)
+  * [brook](only/brook.md)
   * [reqrypt](only/reqrypt.md)
   * [barbaTunnel](only/barbaTunnel.md)
 
@@ -61,7 +51,7 @@
   * [heroku搭建ss服务器](web/ss-4-heroku.md)
   * [heroku搭建v2ray服务器](web/v2ray-4-heroku.md)
   * [heroku搭建ss分享站点](web/heroku-deploy.md)
-  * [提取各类科学上网站点有效信息](web/4sol.md)
+  * [提取站点有效信息](web/4sol.md)
 
 * ipfs专题
 
@@ -84,6 +74,11 @@
   * [浅析正向、反向、透明代理](abc/proxy-s-x.md)
   * [深网和暗网的区别及基础扫盲](abc/darkweb.md)
 
+* 方法论
+  
+  * [搜索站点](method/searchtools.md)
+  * [获取梯子上网的方式](method/get-method.md)
+
 * 细节补充
 
   * [ss#1130](append/ss1130.md)
@@ -92,13 +87,11 @@
   * [关于封锁IP的认为](append/block-ip.md)
   * [对于校园网的解读](append/tcw.md)
   * [论及游戏的看法](append/game.md)
-  * [获取梯子上网的方式](append/get-method.md)
   * [科学上网工具的整合](append/vpn-proxy.md)
   * [对零网的简要补充说明](append/4zeronet.md)
   * [宿主机使用VM的代理](append/vm.md)
   * [ss、ssr、v2ray链接解析](append/srvurl.md)
   * [用Win7，电脑就是路由器](append/win7-wifi.md)
-
 
 * 此书后记
 

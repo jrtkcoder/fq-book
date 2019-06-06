@@ -13,17 +13,17 @@
 
 用[base64解码站长工具](http://tool.chinaz.com/Tools/Base64.aspx)（此工具存在和谐因素，仅为演示方便）进行解码
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_131159x.png)
+![](https://i.postimg.cc/W3Vkrt3d/2018-06-07-131159x.png)
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_132540.png)
+![](https://i.postimg.cc/ZKny6GTx/2018-06-07-132540.png)
 
 从这两幅图也不难看出格式其实是这样的 `ss://method:password@server:port`，按照这个格式的写法并进行base64编码，就能将ss分享给对方使用。
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_142343.png)
+![](https://i.postimg.cc/fT1kmkqM/2018-06-07-142343.png)
 
 若是分享二维码，可以用[二维码生成器](https://www.qrstuff.com/)将ss链接嵌入二维码中扫描分享
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_141818.png)
+![](https://i.postimg.cc/7hGwZnk0/2018-06-07-141818.png)
 
 ## SSR链接
 
@@ -35,19 +35,19 @@ ssr://NjQuMTM3LjIyOC4zNTo1NzYwOmF1dGhfc2hhMV92NDpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2
 
 使用[base64工具](https://1024tools.com/base64)解码
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_145222.png)
+![](https://i.postimg.cc/cJzsyzq0/2018-06-07-145222.png)
 
  字符串包含`–`，需在解码前把`–`这个字符通通替换为`+`字符
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_150006.png)
+![](https://i.postimg.cc/3wzHbDpw/2018-06-07-150006.png)
 
 效果如下
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_150327.png)
+![](https://i.postimg.cc/Jzgg1Ch6/2018-06-07-150327.png)
 
 再来看ssr链接导入的截图
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_150608.png)
+![](https://i.postimg.cc/4NyBn2qr/2018-06-07-150608.png)
 
 由此得知，格式如下
 
@@ -59,7 +59,7 @@ ssr://NjQuMTM3LjIyOC4zNTo1NzYwOmF1dGhfc2hhMV92NDpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2
 
 这其中`obfsparam`、`protoparam`、`group`、`remarks`等都是可选的，也可不填。
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-07_160125.png)
+![](https://i.postimg.cc/76PSdfyp/2018-06-07-160125.png)
 
 ## v2ray链接
 
@@ -73,7 +73,7 @@ vmess://ew0KICAicHMiOiAicnVzc2lhbi1jbG91ZCIsDQogICJhZGQiOiAiMTg1LjE3Ny4yMTYuMTM0
 
 进行base64解码之后再对比v2ray客户端的参数配置就显得一目了然
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_223349.png)
+![](https://i.postimg.cc/85sbKtW2/2018-06-08-223349.png)
 
 可以说大体是这么一个格式
 
@@ -93,7 +93,7 @@ vmess://ew0KICAicHMiOiAicnVzc2lhbi1jbG91ZCIsDQogICJhZGQiOiAiMTg1LjE3Ny4yMTYuMTM0
 
  除别名外，可以说服务器与客户端的参数必须要相互对应，别名、留空的是可以省略的。按照这个相关格式生成base64编码。
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_233637.png)
+![](https://i.postimg.cc/pXBnjK5z/2018-06-08-233637.png)
 
 在base64编码首部加上`vmess://`协议头
 
@@ -103,11 +103,11 @@ vmess://ewogICJhZGQiOiAiMTg1LjE3Ny4yMTYuMTM0IiwKICAicG9ydCI6ICIyMjUzNSIsCiAgImlk
 
 将其导入至v2ray客户端，在服务器未作其他相关变更时，即可成功连接服务器。
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_235033.png)
+![](https://i.postimg.cc/mDTvPxvQ/2018-06-08-235033.png)
 
 当然添加别名更好，这样就能v2ray客户端就能自动生成相应的v2ray链接
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_235553.png)
+![](https://i.postimg.cc/cLX9FK28/2018-06-08-235553.png)
 
 ## SSR对SS的兼容
 
@@ -127,19 +127,19 @@ vmess://ewogICJhZGQiOiAiMTg1LjE3Ny4yMTYuMTM0IiwKICAicG9ydCI6ICIyMjUzNSIsCiAgImlk
 
 我个人认为ssr倒像一个ss的升级版，是这样的一个关系：
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_011429.png)
+![](https://i.postimg.cc/1RrpGkL8/2018-06-08-011429.png)
 
 在了解这些，那么开始进行演示，打开[ssrshare论坛的小工具网页](https://tool.ssrshare.com/tool/free_ssr)
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_014905.png)
+![](https://i.postimg.cc/7hjDGsMw/2018-06-08-014905.png)
 
 图中的origin协议、plain混淆都是支持原版ss的，选择其中一个进行复制ss链接
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_020234.png)
+![](https://i.postimg.cc/t70QC1pg/2018-06-08-020234.png)
 
 将其解码
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_023014.png)
+![](https://i.postimg.cc/VN58gPGm/2018-06-08-023014.png)
 
 由于我们得知ss与ssr的链接格式：
 
@@ -149,25 +149,25 @@ vmess://ewogICJhZGQiOiAiMTg1LjE3Ny4yMTYuMTM0IiwKICAicG9ydCI6ICIyMjUzNSIsCiAgImlk
 
 将解码后的ss的格式转成ssr的格式
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_024019.png)
+![](https://i.postimg.cc/vZ2RcSQj/2018-06-08-024019.png)
 
 对其编码
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_024834.png)
+![](https://i.postimg.cc/zfhd8d3T/2018-06-08-024834.png)
 
 加入`ssr://`链接协议头，再导入至ssr并不成功，原因是密码都套上一层base64编码...因此需要对密码进行一次编码
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_030909.png)
+![](https://i.postimg.cc/jdJn8B16/2018-06-08-030909.png)
 
 之后，按照原有格式将部分参数配置粘贴至密码前，进行编码
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_031437.png)
+![](https://i.postimg.cc/d0J7V3Vn/2018-06-08-031437.png)
 
 再加入`ssr://`链接协议头，导入至ssr即可如：
 
 `ssr://MTM5LjU5LjE2Ny4yNDY6NjIwMzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YVM1M2RYY3VjbVZr`
 
-![](https://raw.githubusercontent.com/hoodiearon/fq-book/master/docs/images/2018-06-08_032054.png)
+![](https://i.postimg.cc/x1nHctsK/2018-06-08-032054.png)
 
 ## v2ray对ss的兼容
 
