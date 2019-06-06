@@ -60,7 +60,7 @@
   * [对去中心化网络的信仰](ipfs/belief.md)
   * [为什么说去中心化很重要](ipfs/why.md)
 
-*  科学普及
+* 科学普及
 
   * [软件互联协议](abc/connection.md)
   * [DNS劫持与污染](abc/4dns.md)
