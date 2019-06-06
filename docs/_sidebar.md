@@ -88,6 +88,7 @@
   * [论及游戏的看法](append/game.md)
   * [对零网的简要补充说明](append/4zeronet.md)
   * [宿主机使用VM的代理](append/vm.md)
+  * [SS二级（前置）代理设置](append/ss-relay.md)
   * [ss、ssr、v2ray链接解析](append/srvurl.md)
   * [用Win7，电脑就是路由器](append/win7-wifi.md)
 

@@ -42,3 +42,4 @@
 * [ss、ssr链接解析，查看对应密码、端口、协议](https://coderschool.cn/2498.html)
 * [V2Ray替换shadowsocks服务器详解](https://www.daehub.com/archives/2156.html)
 * [关于Shadowsocks的小白常见问题](https://doub.io/ss-jc35/)
+* [SS二级（前置）代理设置实现中转加速观看BBC iPlayer](https://www.itengli.com/ss-relay/)
