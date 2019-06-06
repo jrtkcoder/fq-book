@@ -73,7 +73,7 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
     * [V2ray,Vmess免费节点发放](https://t.me/V2list)
     * [免费vpn评测](https://t.me/vpnchina)
     * [Telegaram Socks5 Proxies（tg代理）](https://t.me/TgProxies)
-    * [账号圈](https://t.me/XRAcc) （如果有兴趣玩玩storm扫描节点代理等可用账号，也尝不可）
+    * [账号圈](https://t.me/XRAcc) （如果有兴趣玩玩STORM Cracker扫描节点代理等可用账号，也尝不可）
     
     **Github，熟练的使用Github，这非常的重要！**
 
