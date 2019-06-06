@@ -1,3 +1,33 @@
+## tunsafe
+
+!> 2019 新款vpn
+
+全局模式（翻墙环境）下，进入 [tunsafe](https://tunsafe.com) ，下载并按软件默认选项安装
+
+![](https://i.postimg.cc/RhBH1YpM/Snipaste-2019-06-06-20-47-22.png)
+
+![](https://i.postimg.cc/GpRnCJf4/Snipaste-2019-06-06-20-44-54.png)
+
+在 `user guide` 选择 `using tunsafe windows`接着再选择`free vpn servers`
+
+![](https://i.postimg.cc/7LKsW3r8/20190606205200.png)
+
+点击 `create new account`，选择服务器，然后生成下载该配置文件
+
+![](https://i.postimg.cc/63NrzTyJ/20190606205536.png)
+
+打开软件在`File`项中选择`browse in explorer` 就会打开软件配置目录源
+
+![](https://i.postimg.cc/hv8Qj0rf/Snipaste-2019-06-06-21-11-36.png)
+
+将下载好的conf导入到该目录，选择服务器
+
+![](https://i.postimg.cc/B6pkTrM3/Snipaste-2019-06-06-21-25-53.png)
+
+连接测试
+
+![](https://i.postimg.cc/9X6XrTRB/Snipaste-2019-06-06-21-35-24.png)
+
 
 ## GateVPN
 
@@ -27,3 +57,4 @@
 ![](https://i.postimg.cc/fRkYHqMb/2018-04-29-012851.png)
 
 导入文件后，运行 openVPN 连接互联网
+
