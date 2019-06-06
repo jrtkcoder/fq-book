@@ -60,7 +60,7 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 
 * 移动设备
 
- ?> 较多数爱国软件会限制中国用户，建议更安卓手机地区首选项语言，例如修改成含有中文的国家：新加坡；共享 PC 互联网网络，再利用原生安卓系统下载Google商店安装并下载相关代理或VPN软件。ps：手机没有刷权限的话，选择免费翻墙工具进行科学上网，那就请使用Turbo、ssr这两款吧。
+ ?> 较多数爱国软件会限制中国用户，建议更安卓手机地区首选项语言，例如修改成含有中文的国家：新加坡；共享 PC 互联网网络，再利用原生安卓系统下载Google商店安装并下载相关代理或VPN软件。ps：手机没有刷权限的话，选择免费翻墙工具进行科学上网，那就请使用谷歌空间、Turbo、ssr吧。
 
 * 社会工程学
 
@@ -69,7 +69,8 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 * 求助网络
 
     用社交软件或是问答、综合社区等进行相关求助，如果你只能在国内局域网环境，这个方法也是效果最差的了...不过，你可以这样做，下载[teleplus](https://play.google.com/store/apps/details?id=in.teleplus&hl=zh)这套着内置代理壳等软件进行订阅相关爱国上网分享频道：
-    * [SS分享](http://t.me/ShadowSockss)
+    * [SSR V2ray Share](https://t.me/freeshadowsock)
+    * [V2ray,Vmess免费节点发放](https://t.me/V2list)
     * [免费vpn评测](https://t.me/vpnchina)
     * [Telegaram Socks5 Proxies（tg代理）](https://t.me/TgProxies)
     * [账号圈](https://t.me/XRAcc)
