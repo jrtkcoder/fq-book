@@ -73,6 +73,11 @@
   * [浅析正向、反向、透明代理](abc/proxy-s-x.md)
   * [深网和暗网的区别及基础扫盲](abc/darkweb.md)
 
+* 逗比
+  * [一个逗比](doub/init_doub.md)
+  * [关于目前 GFW(墙) 的封锁方式TCP封锁(阻断)猜想](doub/wkcjzpyd-2.md)
+  * [浅谈HTTP劫持、DNS污染的影响及解决办法](doub/6t3mypbm-5.md)
+
 * 方法论
   
   * [搜索站点](method/searchtools.md)
