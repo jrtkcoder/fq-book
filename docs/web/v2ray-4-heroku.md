@@ -1,6 +1,6 @@
 # heroku搭建v2ray服务器
 
-!> 由于中国在国际上的影响力，搭建此服务器存在有很大封禁风险！
+!> 由于中国在国际上的影响力，搭建此服务器存在有很大封禁风险！[参见 issue #63](https://github.com/onplus/v2hero/issues/63)
 
  fork！github项目：
 
