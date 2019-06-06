@@ -50,13 +50,9 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 
     使用[chrome-extension-downloader](https://chrome-extension-downloader.com/)下载相关代理插件，再通过其翻墙后又获取其他科学上网工具，VPN以及Web代理获取此类工具的方式同理
 
-* 修改DNS
-    
-    修改一些知名的DNS或是使用DNS加密软件防止污染，以打开部分SSR分享站点或是VPN官网等相关网址获取相关工具
+* 修改hosts、DNS
 
-* 修改hosts
-
-    IP/服务器地址查询，取得相关SS站点与VPN官网IP地址并添加进hosts，以此完成相关浏览下载等操作
+    IP/服务器地址查询，取得相关SS站点与VPN官网IP地址并添加进hosts，结合一些知名的DNS或是使用DNS加密软件防止污染，以打开部分SSR分享站点或是VPN官网等相关网址获取相关工具。
 
 * P2P下载
 
@@ -72,8 +68,13 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 
 * 求助网络
 
-    用社交软件或是问答、综合社区等进行相关求助，如果你只能在国内局域网环境，这个方法也是效果最差的了...不过，你可以这样做，下载telegram plus这类似套着tg的壳且内置代理的聊天软件进行订阅相关爱国上网分享频道：
+    用社交软件或是问答、综合社区等进行相关求助，如果你只能在国内局域网环境，这个方法也是效果最差的了...不过，你可以这样做，下载[teleplus](https://play.google.com/store/apps/details?id=in.teleplus&hl=zh)这套着内置代理壳等软件进行订阅相关爱国上网分享频道：
     * [SS分享](http://t.me/ShadowSockss)
+    * [免费vpn评测](https://t.me/vpnchina)
+    * [Telegaram Socks5 Proxies（tg代理）](https://t.me/TgProxies)
+    * [账号圈](https://t.me/XRAcc)
+    
+    **Github，熟练的使用Github，这非常的重要！**
 
 * 病急乱投医
 
@@ -83,8 +84,8 @@ ps：关于更详细的站点收录，请点击参考此github项目[WebSiteUseO
 
 举个例子，通过扩展下载站下载代理插件、web代理或是DNSCrypt访问ss站点，使用ss翻墙后又下载其他VPN或代理，像这样组成一个个互相连接的节点，相对来说就不是那么容易断网了。
 
-以下是个人进行科学上网的方式总览图：
+<!-- 以下是个人进行科学上网的方式总览图：
 
 <!-- ![](https://ipfs.io/ipfs/QmRhbqdGy8wmZhnE68D8uesrEgDFAsp2pcJE2frMuKfrvs?1.png) -->
 
-![](https://i.postimg.cc/Bbx7pj5R/2018-05-05-154505.png)
+<!-- ![](https://i.postimg.cc/Bbx7pj5R/2018-05-05-154505.png) --> -->

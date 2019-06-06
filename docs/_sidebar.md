@@ -82,7 +82,7 @@
 
   * [ss#1130](append/ss1130.md)
   * [难封锁的草榴](append/caoliu.md)
-  * [浅谈手机的理解](append/android.md)
+  * [关于手机](append/android.md)
   * [关于封锁IP的认为](append/block-ip.md)
   * [对于校园网的解读](append/tcw.md)
   * [论及游戏的看法](append/game.md)
